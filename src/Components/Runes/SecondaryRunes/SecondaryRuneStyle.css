@@ -1,0 +1,45 @@
+.mini-rune{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 25px;
+}
+
+.mini-rune > button{
+    display: flex;
+    border-radius: 100%;
+    justify-content: center;
+    align-items: center;
+    width: 60px;
+    height: 60px;
+    box-shadow: 3px 3px 3px gold;
+}
+
+.mini-rune > button > img{
+    height: 50px;
+    width: 50px;    
+}
+
+.mini-rune-container{
+    width: 450px;    
+}
+
+.shard-button{
+    display: flex;
+}
+
+.shard-button > button{
+    display: flex;
+    border-radius: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    height: 40px;
+    width: 40px;
+    box-shadow: 3px 3px 3px gold;
+
+}
+
+.shard-button > button > img{
+    height: 30px;
+    width: 30px;
+}

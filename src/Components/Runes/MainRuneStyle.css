@@ -1,0 +1,92 @@
+.main-container{
+    display: flex;
+}
+
+.main-rune{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.main-rune > h2{
+    margin: 4px;
+    display: flex;
+    align-items: center;
+    width: 100px;
+}
+
+.sec-runes{
+    margin-left: 50px;
+}
+
+.sec-buttons{
+    display: flex;
+    width: 450px;
+    justify-content: space-evenly;
+    margin: 1px;
+}
+
+.sec-buttons > button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    margin: 10px 0px;
+    height: 70px;
+    width: 70px;
+    box-shadow: 3px 3px 3px gold;    
+}
+
+.sec-buttons > button > img{
+    height: 60px;
+    width: 60px;
+}
+
+.mini-main-rune{
+    display: flex;
+    margin: 25px;
+    justify-content: space-evenly;
+}
+
+.mini-main-rune > button{
+    display: flex;
+    border-radius: 100%;
+    justify-content: center;
+    align-items: center;
+    width: 60px;
+    height: 60px;
+    box-shadow: 3px 3px 3px gold;
+}
+
+.mini-main-rune > button > img{
+    width: 50px;
+    height: 50px;    
+}
+
+.main-rune{
+    width: 600px;
+    margin: 1px;
+}
+
+.main-rune > button{
+    display: flex;
+    border-radius: 100%;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
+    height: 80px;
+    box-shadow: 3px 3px 3px gold;
+}
+
+.main-rune > button > img{
+    width: 70px;
+    height: 70px;    
+}
+
+.shard-container{
+    margin: 5px 50px;
+}
+
+.mini-main-container{
+    width: 600px;
+}
+

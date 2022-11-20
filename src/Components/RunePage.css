@@ -1,0 +1,72 @@
+.select-rune{
+    width: 600px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 1px;
+}
+
+.rune-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    margin: 10px 0px;
+    height: 90px;
+    width: 90px;
+    box-shadow: 3px 3px 3px gold
+}
+
+.rune-button > img{
+    height: 80px;
+    width: 80px;    
+}
+
+.main-container{
+    width: 600px;
+    margin: 1px;
+    padding: 5px;
+}
+
+.icon{
+    width: 10px;
+}
+
+.input-field{
+    height: 40px;
+    font-size: xx-large;
+    margin: 10px;
+    border-style: none;
+    font-weight: bold;
+    background-color: transparent;
+    color: gold;
+    font-family: 'Caveat', sans-serif;
+}
+
+.dropdown{
+    border-radius: 15px;
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: medium;
+    box-shadow: 3px 3px 3px gold;
+    background-color: transparent ;
+    border-color: gold;
+    color: gold;
+    font-family: 'Caveat', sans-serif;
+}
+
+.delete{
+    border-radius: 15px;
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: medium;
+    box-shadow: 3px 3px 3px gold;
+    background-color: transparent ;
+    border-color: gold;
+    color: gold;
+    font-family: 'Caveat', sans-serif;
+}
+
+.text{
+    color: gold;
+    font-family: 'Caveat', sans-serif;
+}

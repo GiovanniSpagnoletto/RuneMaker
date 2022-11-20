@@ -1,0 +1,23 @@
+.runes{
+    display: grid;  
+}
+
+.main-button{
+    border-radius: 15px;
+    margin: 20px;
+    width: 160px;
+    height: 40px;
+    font-size: large;
+    font-weight: bold;
+    box-shadow: 3px 3px 3px gold;
+    background-color: transparent ;
+    border-color: gold;
+    color: gold;
+    font-family: 'Caveat', sans-serif;
+
+}
+
+body{
+    margin: 0;
+    background-image: "./sfondo.jpg";
+}
