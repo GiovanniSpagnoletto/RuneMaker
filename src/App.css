@@ -18,6 +18,8 @@
 }
 
 body{
+    height: 100vh;
     margin: 0;
-    background-image: "./sfondo.jpg";
+    background: rgb(50,50,50);
+    background: linear-gradient(180deg, rgba(50,50,50,1) 0%, rgba(93,93,93,1) 100%);
 }
